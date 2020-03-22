@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Python과 AWS의 각종 서비스를 이용하여 Web Service, API Server, Serverless 시스템을 구축 및 운영할 수 있고, Web Sevice 배포, 시스템 모니터링을 위해 Linux 상에서 시스템을 구성할 수 있습니다. Full stack 개발자로서 Backend는 Flask, Frontend는 Vue를 사용할 수 있습니다.
+subtitle: 세상이 빠르고 편리하게 발전하고 있는 것 같지만 가끔은 의문이 듭니다.
 ---
 
 안녕하세요. 저는 장기현입니다. 저는 다음과 같은 일들을 할 수 있습니다:

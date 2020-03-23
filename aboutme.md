@@ -27,14 +27,17 @@ subtitle: 세상이 빠르고 편리하게 발전하고 있는 것 같지만 가
 ### Online Video Call
 - 웹 브라우저 상에서 WebRTC 를 이용한 실시간 화상통화 시스템 개발
 - 개발 환경 : WebRTC, React, Flask, AWS
+
 ### Online Recruiting
 - AWS API Gateway 와 Lambda 를 이용한 REST API 개발 (Cognito, RDS, API Gateway, Lambda, Cloudfront, S3)
 - Vue 를 이용한 Frontend 개발
 - 개발 환경 : Python, AWS, Vue, Sqlalchemy
+
 ### Digital Signage
 - Raspberry pi headless wifi setup 시스템 개발
 - AWS IoT 를 이용한 Raspberry pi 제어 시스템 개발 (IoT, S3, API Gateway, Lambda, Cognito, DynamoDB)
 - 개발 환경 : Python, AWS, Raspberry pi, Redis
+
 ### People Counting
 - AWS Rekognition 을 이용한 비디오 분석 및 Face Tracking 개발
 - Yolo 를 이용한 Person Detecting 및 People Counting 개발

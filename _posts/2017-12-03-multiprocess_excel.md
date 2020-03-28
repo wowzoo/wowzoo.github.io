@@ -1,8 +1,6 @@
 ---
-title: "Multiprocess로 Excel 읽기"
 layout: post
-date: 2017-12-03 12:03
-categories: python
+title: "Multiprocess로 Excel 읽기"
 ---
 Excel의 데이터를 읽어서 분석할 때 몇 천 라인을 한 줄씩 읽어서 분석하다 보니 시간도 오래 걸리고 비효율적이라는 생각이 들었다.  
 multiprocess를 이용하면 좀 더 빠르게 분석할 수 있을 것 같아서 구현해 보았다.  

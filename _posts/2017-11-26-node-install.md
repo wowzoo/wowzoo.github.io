@@ -1,8 +1,6 @@
 ---
-title: "Node 설치하기"
 layout: post
-date: 2017-11-26 11:47
-categories: etc
+title: "Node 설치하기"
 ---
 Node.js의 npm을 사용하기 위해 설치한다.  
 

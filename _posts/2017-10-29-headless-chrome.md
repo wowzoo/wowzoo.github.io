@@ -1,8 +1,6 @@
 ---
-title: "Crawling에 Headless Chrome 사용하기"
 layout: post
-date: 2017-10-29 11:25
-categories: etc
+title: "Crawling에 Headless Chrome 사용하기"
 ---
 ## Headless Chrome
 이전 포스팅에서 [selenium 으로 crawling 하는 법]에 대해서 알아보았다.  

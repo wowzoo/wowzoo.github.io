@@ -1,8 +1,6 @@
 ---
-title: "GitHub Pages와 Jekyll로 블로그 하기"
 layout: post
-date:   2017-10-02 08:23
-categories: etc
+title: "GitHub Pages와 Jekyll로 블로그 하기"
 ---
 Markdown으로 글을 쓰면서 블로그를 하고 싶다는 생각을 하고 있었는데 github pages와 jekyll을 이용하면 될 것 같아 만들어 보았다. 
 이 HOW-TO는 Mac에서 Jekyll를 로컬로 세팅하고 post를 작성해서 github에 올리는 것에 대한 내용이다. 

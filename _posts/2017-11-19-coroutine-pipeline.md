@@ -1,8 +1,6 @@
 ---
-title: "coroutine 을 pipeline 처럼 이용하기"
 layout: post
-date: 2017-11-19 08:48
-categories: python
+title: "coroutine 을 pipeline 처럼 이용하기"
 ---
 텍스트 파일을 읽어서 특수문자로 표시된 따옴표, 쉼표, 하이픈 등을 일반문자로 변경하고 UTF-8 로 저장하는 모듈이 필요해 졌다.  
 어떻게 만들까 고민하다 coroutine 을 이용해서 pipeline 처럼 구성해 보기로 했다.  

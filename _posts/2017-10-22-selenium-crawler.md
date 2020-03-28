@@ -1,8 +1,6 @@
 ---
-title: "Selenium 으로 Web Crawler 만들기"
 layout: post
-date: 2017-10-22 08:35
-categories: etc
+title: "Selenium 으로 Web Crawler 만들기"
 ---
 [selenium] 은 웹 브라우저를 이용해 웹 애플리케이션을 테스트 할 수 있게 하는 tool 이다. 
 자동화가 가능하고 여러 웹 브라우저(IE, Chrome, Firefox 등)를 이용할 수 있기 때문에 

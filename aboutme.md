@@ -2,6 +2,7 @@
 layout: page
 title: About me
 subtitle: 세상이 빠르고 편리하게 발전하고 있는 것 같지만 가끔은 의문이 듭니다.
+published: true
 ---
 
 안녕하세요. 저는 장기현입니다. 저는 다음과 같은 일들을 할 수 있습니다:
@@ -16,7 +17,7 @@ subtitle: 세상이 빠르고 편리하게 발전하고 있는 것 같지만 가
   - AWS Serverless 구성
   - Linux 시스템 구성
 
-<br />
+&nbsp;
 
 # Projects
 

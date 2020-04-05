@@ -30,6 +30,7 @@ published: true
 - 개발 환경 : WebRTC, React, Flask, AWS
 
 ### Online Recruiting
+![ai-interview](img/ai-interview.jpg)
 - AWS API Gateway 와 Lambda 를 이용한 REST API 개발 (Cognito, RDS, API Gateway, Lambda, Cloudfront, S3)
 - Vue 를 이용한 Frontend 개발
 - 개발 환경 : Python, AWS, Vue, Sqlalchemy

@@ -22,12 +22,14 @@ published: true
 # Projects
 
 <br />
+
 ## @크프 (2020년 2월 - 현재)
 ---
 ### 상품 추천 서버
 - 상품 추천 API를 제공하는 Backend 서버 개발
 - 상품 정보를 주기적으로 업데이트 하기 위해 Airflow 구성
 - 개발 환경 : Django, Airflow
+
 ## @Knowru (2017년 12월 - 2019년 11월)
 ---
 ### Online Video Call
